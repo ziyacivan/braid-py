@@ -17,7 +17,7 @@ from braid.optimizer import BraidOptimizer, GRDMetrics
 from braid.parser import MermaidParser, GRDStructure, GRDNode, GRDEdge
 from braid.generator import GRDGenerator
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
 
 __all__ = [
     "BraidReasoning",
