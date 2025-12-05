@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="braid-dspy",
-    version="0.1.1",
+    version="0.1.2",
     author="Braid-DSPy Contributors",
     description="BRAID integration for DSPy framework",
     long_description=long_description,
@@ -30,7 +30,6 @@ setup(
             "pytest>=7.0.0",
             "pytest-cov>=4.0.0",
             "black>=23.0.0",
-            "flake8>=6.0.0",
             "mypy>=1.0.0",
         ],
     },

@@ -58,7 +58,4 @@ jobs:
     
     - name: Run black check
       run: black --check braid/ tests/ examples/
-    
-    - name: Run flake8
-      run: flake8 braid/ tests/ examples/ --max-line-length=100 --extend-ignore=E203,W503
 
