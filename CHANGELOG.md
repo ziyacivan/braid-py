@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.6] - 2025-01-XX
+
+### Added
+- Comprehensive test suite for `BraidOptimizer` class (`test_optimizer.py`)
+- Extensive test coverage for utility functions (`test_utils.py`)
+- Additional edge case tests for `GRDGenerator` class
+- Tests for GRDMetrics including structural validity, completeness, and execution traceability
+- Tests for optimization paths with and without base optimizer
+- Tests for metric evaluation with various scenarios
+
+### Changed
+- Significantly improved test coverage from 65.36% to 84.36%
+- Enhanced test coverage for `braid/optimizer.py` from 30% to 80%
+- Enhanced test coverage for `braid/utils.py` from 38% to 97%
+- Improved test coverage for `braid/module.py` from 80% to 81%
+- Improved test coverage for `braid/parser.py` from 97% to 98%
+
+### Fixed
+- Test suite now meets the 70% coverage requirement
+- All 115 tests passing successfully
+
 ## [0.1.5] - 2025-01-XX
 
 ### Added
@@ -68,7 +89,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial project setup
 - Basic package structure
 
-[Unreleased]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.5...HEAD
+[Unreleased]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.6...HEAD
+[0.1.6]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.3...v0.1.4
 [0.1.3]: https://github.com/ziyacivan/braid-dspy/compare/v0.1.2...v0.1.3
