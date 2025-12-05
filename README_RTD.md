@@ -26,7 +26,7 @@ This guide explains how to set up Read the Docs for BRAID-DSPy.
 
 5. **Trigger a build**
    - Click "Build version" to test
-   - Documentation will be available at: `https://braid-py.readthedocs.io/`
+   - Documentation will be available at: `https://braid-dspy.readthedocs.io/en/stable/`
 
 ## Configuration Files
 

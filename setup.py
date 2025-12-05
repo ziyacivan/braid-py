@@ -5,12 +5,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="braid-dspy",
-    version="0.1.2",
+    version="0.1.5",
     author="Braid-DSPy Contributors",
     description="BRAID integration for DSPy framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/braid-py",
+    url="https://github.com/ziyacivan/braid-dspy",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

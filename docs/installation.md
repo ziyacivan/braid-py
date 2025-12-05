@@ -14,8 +14,8 @@ pip install braid-dspy
 ## Install from Source
 
 ```bash
-git clone https://github.com/yourusername/braid-py.git
-cd braid-py
+git clone https://github.com/ziyacivan/braid-dspy.git
+cd braid-dspy
 pip install -e .
 ```
 
@@ -43,8 +43,8 @@ uv pip install braid-dspy
 Or for development:
 
 ```bash
-git clone https://github.com/yourusername/braid-py.git
-cd braid-py
+git clone https://github.com/ziyacivan/braid-dspy.git
+cd braid-dspy
 uv sync
 ```
 

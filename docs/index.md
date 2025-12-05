@@ -65,7 +65,7 @@ pip install braid-dspy
 
 ## License
 
-MIT License - see the [LICENSE](https://github.com/yourusername/braid-py/blob/main/LICENSE) file for details.
+MIT License - see the [LICENSE](https://github.com/ziyacivan/braid-dspy/blob/main/LICENSE) file for details.
 
 ## References
 
