@@ -1,6 +1,5 @@
 """Tests for BRAID module."""
 
-import pytest
 from braid.module import BraidReasoning, BraidResult
 from braid.parser import MermaidParser
 

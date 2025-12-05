@@ -1,6 +1,5 @@
 """GSM8K benchmark example using BRAID-DSPy."""
 
-import dspy
 from braid import BraidReasoning, BraidOptimizer
 
 # Configure DSPy

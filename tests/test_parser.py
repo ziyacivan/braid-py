@@ -1,7 +1,6 @@
 """Tests for Mermaid parser."""
 
-import pytest
-from braid.parser import MermaidParser, GRDStructure, NodeType
+from braid.parser import MermaidParser
 
 
 class TestMermaidParser:

@@ -1,6 +1,5 @@
 """Tests for GRD generator."""
 
-import pytest
 from braid.generator import GRDGenerator
 from braid.parser import MermaidParser
 

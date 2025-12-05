@@ -1,7 +1,7 @@
 """Optimization example for BRAID-DSPy."""
 
-import dspy
 from braid import BraidReasoning, BraidOptimizer
+from braid.parser import MermaidParser
 
 # Configure DSPy
 # lm = dspy.OpenAI(model="gpt-4", api_key="your-api-key")

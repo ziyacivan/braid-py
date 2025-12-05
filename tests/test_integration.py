@@ -1,6 +1,5 @@
 """Integration tests for BRAID-DSPy."""
 
-import pytest
 from braid import BraidReasoning, BraidOptimizer
 from braid.parser import MermaidParser
 from braid.generator import GRDGenerator

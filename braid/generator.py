@@ -3,7 +3,7 @@
 from typing import Dict, List, Optional, Any
 import dspy
 from braid.parser import MermaidParser
-from braid.utils import extract_mermaid_code, validate_mermaid_syntax
+from braid.utils import extract_mermaid_code
 from braid.signatures import BraidPlanSignature
 
 

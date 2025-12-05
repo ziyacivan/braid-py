@@ -4,7 +4,7 @@ from typing import Dict, List, Optional, Any
 import dspy
 from dataclasses import dataclass
 
-from braid.signatures import BraidPlanSignature, BraidExecuteSignature, BraidStepSignature
+from braid.signatures import BraidPlanSignature, BraidStepSignature
 from braid.generator import GRDGenerator
 from braid.parser import MermaidParser, GRDStructure
 

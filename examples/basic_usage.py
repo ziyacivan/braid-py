@@ -1,6 +1,5 @@
 """Basic usage example for BRAID-DSPy integration."""
 
-import dspy
 from braid import BraidReasoning
 
 # Configure DSPy with your language model
